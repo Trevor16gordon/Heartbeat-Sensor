@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=5V Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=5V Pin=C6-2
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet2 Member=C6
