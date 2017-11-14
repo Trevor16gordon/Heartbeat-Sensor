@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=R5-2
+Removed Pin From Net: NetName=NetR2_2 Pin=R20-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R20-2
+Removed Pin From Net: NetName=NetC8_2 Pin=R21-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R21-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R22-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R22-2
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R20
+Removed Member From Class: ClassName=Sheet1 Member=R21
+Removed Member From Class: ClassName=Sheet1 Member=R22
+Change Component Designator: OldDesignator=J? NewDesignator=J1

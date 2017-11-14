@@ -1,0 +1,15 @@
+Added Component: Designator=*(5k_pot)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "3296W-1-505LF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=*-1
+Added Pin To Net: NetName=NetC1_1 Pin=*-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U2-7
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Net*_2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Net*_1
+Change Net Name : Old Net Name=VCC New Net Name=5V
+Added Member To Class: ClassName=Sheet1 Member=Component * 5Mohm Potentiometer

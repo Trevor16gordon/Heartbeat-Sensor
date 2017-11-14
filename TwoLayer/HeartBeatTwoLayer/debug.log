@@ -1,0 +1,143 @@
+[1105/193236:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/193241:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/193245:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/193246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/195014:ERROR:gles2_cmd_decoder.cc(3695)]   GLES2DecoderImpl: Context lost during MakeCurrent.
+[1105/195015:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1105/195015:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1105/195015:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1105/195015:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1105/195015:ERROR:gl_bindings_autogen_gl.cc(11526)] Trying to call glDeleteVertexArraysOES() without current GL context
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324EF88]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1105/195015:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324EF88]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091339:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1114/091344:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1114/091349:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1114/091505:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1114/091955:ERROR:gl_context_egl.cc(87)] eglCreateContext failed with error EGL_CONTEXT_LOST
+[1114/091955:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[1114/091955:ERROR:gl_context_egl.cc(87)] eglCreateContext failed with error EGL_CONTEXT_LOST
+[1114/091955:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[1114/091955:ERROR:gl_context_egl.cc(87)] eglCreateContext failed with error EGL_CONTEXT_LOST
+[1114/091955:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[1114/091955:ERROR:gl_context_egl.cc(87)] eglCreateContext failed with error EGL_CONTEXT_LOST
+[1114/091955:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(13124)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[1114/091955:ERROR:gles2_cmd_decoder.cc(3702)]   GLES2DecoderImpl: Context reset detected after MakeCurrent.
+[1114/091955:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1114/091955:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1114/091955:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1114/091955:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1114/091955:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1114/091955:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11526)] Trying to call glDeleteVertexArraysOES() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11444)] Trying to call glDeleteBuffersARB() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11465)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11465)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11511)] Trying to call glDeleteTextures() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11476)] Trying to call glDeleteProgram() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11476)] Trying to call glDeleteProgram() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11476)] Trying to call glDeleteProgram() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11476)] Trying to call glDeleteProgram() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:gl_bindings_autogen_gl.cc(11500)] Trying to call glDeleteShader() without current GL context
+[1114/091955:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1114/091955:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[1114/091955:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-4324ED98]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1114/091955:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-4324ED98]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
