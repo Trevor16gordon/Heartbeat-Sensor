@@ -1,6 +1,6 @@
 # Heartbeat-Sensor
 4th Year Microelectronics Project
-By Mitchell Johnston and Trevor
+By Mitchell Johnston and Trevor Gordon
 
 
 ![Alt text](https://github.com/Trevor16gordon/Heartbeat-Sensor/blob/master/Images/SideBySide.JPG)
